@@ -1,2 +1,2 @@
-# vcs
+# vcs training
 repo na szkoelenie 
