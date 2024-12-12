@@ -1,0 +1,2 @@
+# vcs
+repo na szkoelenie 
